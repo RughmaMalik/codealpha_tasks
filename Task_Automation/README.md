@@ -48,8 +48,10 @@ It helps in tasks like cleaning email data from documents, logs, or web-scraped 
 
 **Input text file** containing sample text with email addresses.  
 ![email_input_file](screenshots/email_input_file.png)  
+
 **Program running in terminal**, showing successful extraction message.  
 ![email_extracted](screenshots/email_extracted.png) 
+
 **Output file** displaying all extracted and unique email addresses.  
 ![email_output_file](screenshots/email_output_file.png)  
 
