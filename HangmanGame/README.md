@@ -35,12 +35,17 @@ This program simulates the classic **Hangman Game** in a text-based format.
 
 ### Output Screenshots
 
-| Description | Screenshot |
-|--------------|-------------|
-| **1. Game Start Screen** | ![Game Start](screenshots/hangman_start.png) |
-| **2. Correct Guess Example** | ![Correct Guess](screenshots/hangman_correct.png) |
-| **3. Wrong Guess Example** | ![Wrong Guess](screenshots/hangman_wrong.png) |
-| **4. Win Screen** | ![Win Screen](screenshots/hangman_win.png) |
+ **1. Game Start Screen**
+ ![Game Start](screenshots/hangman_start.png) 
+ 
+ **2. Correct Guess Example**
+ ![Correct Guess](screenshots/hangman_correct.png)
+ 
+ **3. Wrong Guess Example**
+ ![Wrong Guess](screenshots/hangman_wrong.png) 
+ 
+ **4. Win Screen**
+ ![Win Screen](screenshots/hangman_win.png) 
 
 ---
 
