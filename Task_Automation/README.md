@@ -46,12 +46,21 @@ It helps in tasks like cleaning email data from documents, logs, or web-scraped 
 
 ### Output Screenshots
 
- ![email_input_file](screenshots/email_input_file.png)  **Input text file** containing sample text with email addresses. 
- ![email_extracted](screenshots/email_extracted.png)  **Program running in terminal**, showing successful extraction message. 
- ![email_output_file](screenshots/email_output_file.png)  **Output file** displaying all extracted and unique email addresses. 
+**Input text file** containing sample text with email addresses.  
+![email_input_file](screenshots/email_input_file.png)  
+**Program running in terminal**, showing successful extraction message.  
+![email_extracted](screenshots/email_extracted.png) 
+**Output file** displaying all extracted and unique email addresses.  
+![email_output_file](screenshots/email_output_file.png)  
 
 ---
 
 ### Conclusion  
 This task enhanced my understanding of **regex**, **file handling**, and **automation scripting** in Python.  
 It also demonstrated how Python can automate data cleaning and extraction tasks efficiently.
+
+---
+
+### Author
+**Rughma Malik**  
+5th Semester Software Engineering Student, Fatima Jinnah Women University
